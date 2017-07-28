@@ -3,28 +3,10 @@
         "spring-rest-seed": {
             "features": [
                 {
-                    "name": "Java.Properties",
-                    "followers": []
-                },
-                {
-                    "name": "Java.Structure",
-                    "followers": []
-                },
-                {
-                    "name": "Maven.Dependency",
-                    "followers": []
-                },
-                {
-                    "name": "Maven.Docker",
-                    "followers": []
-                },
-                {
-                    "name": "Maven.Plugin",
-                    "followers": []
-                },
-                {
-                    "name": "Maven.Travis",
-                    "followers": []
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "claude-demo"
+                    ]
                 }
             ]
         }
