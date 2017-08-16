@@ -5,7 +5,8 @@
                 {
                     "name": "SpringBoot.Structure",
                     "followers": [
-                        "claude-demo"
+                        "claude-demo",
+                        "test-spring-rest-seed"
                     ]
                 }
             ]
