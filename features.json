@@ -10,6 +10,16 @@
                     ]
                 }
             ]
+        },
+        "test-spring-rest-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "another-seed-test"
+                    ]
+                }
+            ]
         }
     }
 }
